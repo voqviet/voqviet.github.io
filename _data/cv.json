@@ -1,22 +1,22 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Viet Vo",
+    "email": "vvo@swin.edu.au",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://voqviet.github.io/",
+    "summary": "Currently employed at Swinburne University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Melbourne",
+      "countryCode": "AU",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "username": "Viet Vo",
+        "url": "https://scholar.google.com/citations?user=j6No-EcAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
